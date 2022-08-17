@@ -4,6 +4,9 @@ import main.Observer.Observer;
 import main.Observer.구독자라이언;
 import main.Observer.구독자어피치;
 import main.Observer.새로운컨텐츠;
+import main.Strategy.Context;
+import main.Strategy.ContextUser1;
+import main.Strategy.UserStrategy1Impl2;
 
 public class sample {
 
@@ -27,5 +30,7 @@ public class sample {
         새로운.구독해지(구독자2);
 
         새로운.신규컨텐츠나옴();
+
+
     }
 }
