@@ -4,6 +4,7 @@ public class StrategyPlay {
 
 
     public static void main(String[] args) {
+
         /**
          * strategy pattern
          */
